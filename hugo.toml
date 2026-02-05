@@ -1,0 +1,4 @@
+baseURL = 'https://richeekdebnath.com/'
+languageCode = 'en-us'
+title = 'My Website'
+theme = 'ananke'
