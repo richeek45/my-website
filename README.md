@@ -1,0 +1,1 @@
+# THis is an work in progress of the blog made in hugo
