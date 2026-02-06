@@ -38,7 +38,7 @@
     icon = "search"
 
 [[main]]
-  identifier = "About"
+  name = "About"
   pageRef = "about"
   weight = 40
   [main.params]
