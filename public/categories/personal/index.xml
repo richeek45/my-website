@@ -6,6 +6,21 @@
     <description>Recent content in Personal on Richeek&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 06 Feb 2026 14:36:55 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Fri, 06 Feb 2026 14:36:55 +0530</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 05 Feb 2026 20:37:32 +0530</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
