@@ -9,15 +9,15 @@ title = "Richeek's Blog"
 [params]
   dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  mainSections = ["blog"]
+  description = "Richeek's Blog"
 
 [params.author]
-  # name = "Richeek Debnath"
+ name = "Richeek Debnath"
   # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
+ headline = "Software Developer"
+ bio = "Wanderer"
+ links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -30,7 +30,7 @@ title = "Richeek's Blog"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+   { github = "https://github.com/richeek45" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
@@ -40,9 +40,9 @@ title = "Richeek's Blog"
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { kofi = "https://ko-fi.com/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+   { linkedin = "https://www.linkedin.com/in/richeek-debnath/" },
   #   { mastodon = "https://mastodon.instance/@username" },
-  #   { medium = "https://medium.com/username" },
+    { medium = "https://medium.com/@richeek45" },
   #   { mendeley = "https://www.mendeley.com/" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -61,7 +61,7 @@ title = "Richeek's Blog"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  #   { x-twitter = "https://twitter.com/username" },
+   { x-twitter = "https://x.com/richeek45" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+ ]

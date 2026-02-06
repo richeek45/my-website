@@ -2,6 +2,8 @@
 date = '2026-02-05T20:37:32+05:30'
 draft = true
 title = 'My First Post'
+categories = ['personal']
+tags = ['story', 'experience']
 +++
 
 ## Introduction

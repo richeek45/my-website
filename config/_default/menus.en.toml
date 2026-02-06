@@ -12,6 +12,7 @@
 
 [[main]]
   name = "Blog"
+  identifier = "Blog"
   pageRef = "posts"
   weight = 10
 
@@ -19,17 +20,29 @@
   name = "Categories"
   pageRef = "categories"
   weight = 20
+  [main.params]
+    icon = "bookmark"
 
 [[main]]
-  name = "Tags"
+  name = "Label"
   pageRef = "tags"
   weight = 30
+  [main.params]
+    icon = "label"
 
 [[main]]
   identifier = "search"
   weight = 99
   [main.params]
     action = "search"
+    icon = "search"
+
+[[main]]
+  identifier = "About"
+  pageRef = "about"
+  weight = 40
+  [main.params]
+    icon = "user"
 
 [[main]]
   identifier = "locale"
@@ -40,6 +53,10 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy"
 
 # [[footer]]
 #   name = "Tags"

@@ -5,6 +5,7 @@
 # baseURL = "https://richeekdebnath.com/"
 defaultContentLanguage = "en"
 languageCode = "en"
+# sectionPagesMenu = 'main'
 
 enableRobotsTXT = true
 summaryLength = 0
@@ -14,6 +15,10 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
 
 [privacy]
   [privacy.vimeo]
